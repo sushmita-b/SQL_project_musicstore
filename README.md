@@ -1,2 +1,2 @@
 # SQL_project_musicstore
-With the help of Rishab Mishra I have build this SQL project.
+Under the guidance of Mr.Rishab Mishra I have build my first SQL project.
